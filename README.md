@@ -26,7 +26,7 @@ An Excel-based dashboard analyzing shopping trends among Jenkins consumers in 20
 - Data Analysis
 
 ## 📸 Dashboard Preview
-![Jenkins Dashboard Preview](jenkins_dashboard.png)
+![Jenkins Dashboard Preview]([jenkins_dashboard.png](https://github.com/YCREM/Jenkins-shopping-trends-dashboard/blob/main/JENKINS%20DASHBOARD.png))
 
 ## 📂 Files Included
 - `Jenkins_Shopping_Trends_Dashboard.xlsx`
